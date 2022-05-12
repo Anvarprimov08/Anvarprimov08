@@ -13,4 +13,4 @@
 <br?>
 📍 &nbsp Current address: Samarkand, Uzbekistan.<br?>
 🧾 &nbsp Ask me about any question. I am happy to help you.<br?>
-📲 &nbsp How to reach me [@anvarbek5133](https://www.istagram.com/anvarbek5133)<br?>
+📲 &nbsp How to reach me [@anvarbek5133](https://www.instagram.com/anvarbek5133)<br?>
