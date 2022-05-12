@@ -3,4 +3,6 @@
 <br/>
 ### Languages and tools I work with
 <code><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhMY2qZI37O4qz7YcbSaIiYeSXY0-epvdSxw&usqp=CAU" width = 50px></code>
+<code><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIQWV2xYEegOOR_chOaMtgRwhXV8-O7mm4Q&usqp=CAU" width = 50px></code>
+<code><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhMY2qZI37O4qz7YcbSaIiYeSXY0-epvdSxw&usqp=CAU" width = 50px></code>
 <code><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhMY2qZI37O4qz7YcbSaIiYeSXY0-epvdSxw&usqp=CAU" width = 50px></code>
