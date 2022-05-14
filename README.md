@@ -11,6 +11,6 @@
 <code><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg0lPzYbICQVHN5kUK9g0HG7RpvdMe93Wc9Q&usqp=CAU" width = 50px></code>
 
 <br?>
-- 📍 &nbsp Current address: Samarkand, Uzbekistan.###<br?>
-- 🧾 &nbsp Ask me about any question. I am happy to help you.###<br?>
-- 📲 &nbsp How to reach me [@anvarbek5133](https://www.instagram.com/anvarbek5133)<br?>
+- 📍 &nbsp Current address: Samarkand, Uzbekistan.
+- 🧾 &nbsp Ask me about any question. I am happy to help you.
+- 📲 &nbsp How to reach me [@anvarbek5133](https://www.instagram.com/anvarbek5133)
